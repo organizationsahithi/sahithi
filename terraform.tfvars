@@ -1,0 +1,7 @@
+role = "myrole"
+ami             = "ami-04ff98ccbfa41c9ad"
+instance_type   = "t2.micro"
+subnet_id       = "subnet-0c03ad2a585b25b77"
+instance_name   = "my-ec2-instance"
+key_name        = "serverkey"
+bucket_name = "buck2808"
