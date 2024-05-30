@@ -1,5 +1,5 @@
 role = "myrole28"
-ami             = "ami-08ebc9e780cde07dd"
+ami             = "ami-0d94353f7bad10668"
 instance_type   = "t2.medium"
 subnet_id       = "subnet-08157dcefe5492360"
 instance_name   = "my-ec2-instance"
